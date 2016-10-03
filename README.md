@@ -37,6 +37,10 @@ TOPICS COVERED
 - Progress Bars
 - Empty State of a List
 - Internet Connectivity Check
+- Settings Tab
+- Preferences - EditTextPreference & ListPreference - res/xml
+- PreferenceFragment & its Callback Listener
+- UriBuilder
 
 
 
